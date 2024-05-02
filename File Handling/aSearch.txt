@@ -1,0 +1,4 @@
+Hello this is Python Programming 
+ How can we remove the line which contains a in it. 
+ Okay nice! 
+ Good!

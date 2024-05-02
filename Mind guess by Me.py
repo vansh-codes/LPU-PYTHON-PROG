@@ -1,0 +1,16 @@
+a=input("Enter your name : ")
+print("Hello ",a)
+
+while True:
+    int(input("Choose a number for you in range 1 to 10 "))
+    input("Ready for the next step [y/n]  : ")
+    print("double up the number ")
+    input("Press Y to continue [y/n] ")
+    print("Add 6 for me too! hhehehe")
+    input("Press Y to continue [y/n] ")
+    print("Its the turning point now")
+    print("Now half the total number you have in your mind")
+    input("Press Y to continue [y/n] ")
+    print("subtract the number you have from the sum")
+    input("Press Y to continue [y/n] ")
+    print("You are left with the number 3")
