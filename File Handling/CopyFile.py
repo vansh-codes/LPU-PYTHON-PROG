@@ -1,0 +1,6 @@
+f=open("WritingReading.txt","r")
+f1=open("CopyFile.txt","w")
+data=f.read()
+f1.write(data)
+f.close()
+f1.close()
