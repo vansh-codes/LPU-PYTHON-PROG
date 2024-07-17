@@ -1,0 +1,7 @@
+s=input()
+print(s.isalpha())
+print(s.isalnum())
+print(s.isdigit())
+print(s.isascii())
+print(s.isspace())
+print("abc".isalpha())
